@@ -7,5 +7,6 @@ Route::get('/', function () {
     return redirect('/search');
 });
 
+
 Route::get('/search', [TVMazeController::class, 'search']);
 
