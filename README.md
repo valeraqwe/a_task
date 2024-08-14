@@ -45,7 +45,7 @@ to see results in txt file
 
 ### Future Enhancements
 
-There are several ways this project could be improved in the future:
+There are several ways this project could be improved in the future
 
 Support for Additional Search Parameters:
 Enhance the API to allow more advanced search parameters, such as genre, release year, or actor. This would make searches more flexible and precise.
