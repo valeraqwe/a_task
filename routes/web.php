@@ -1,7 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\TVMazeController;
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/search');
 });
+
+Route::get('/search', [TVMazeController::class, 'search']);
+
