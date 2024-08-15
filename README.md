@@ -17,7 +17,7 @@ This project is an API for searching TV shows using the external TVMaze service.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/valeraqwe/a_task.git
    
 2. Navigate to the project directory
 
